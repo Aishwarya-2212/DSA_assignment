@@ -1,0 +1,24 @@
+Playlist:
+Title:  ABC
+Artist: Shreya 
+
+Title:  AB
+Artist: S.B
+
+Title:  A
+Artist: Arjit singh song
+
+Song not found.
+Playlist:
+Title:  ABC
+Artist: Shreya 
+
+Title:  AB
+Artist: S.B
+
+Title:  A
+Artist: Arjit singh song
+
+Total songs in playlist: 3
+Playlist cleared.
+Playlist:

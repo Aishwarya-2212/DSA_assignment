@@ -1,0 +1,4 @@
+Largest Element: 9
+Smallest Element: 2
+Sum: 26
+Average: 5.20

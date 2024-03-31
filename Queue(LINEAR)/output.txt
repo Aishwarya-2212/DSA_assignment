@@ -1,0 +1,5 @@
+Queue elements are:
+20 60 40 70 
+Dequeued element: 20
+Queue elements are:
+60 40 70 
